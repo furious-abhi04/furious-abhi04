@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @furious-abhi04
+- 👋 Hi, I’m @abhiraj-sh04
 - 👀 I’m interested in App Development.
 - 🌱 Currently I'm persuing my B.tech with CSE.
 - 💞️ I’m looking to collaborate on Apps Development.
